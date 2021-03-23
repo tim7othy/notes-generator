@@ -1,0 +1,14 @@
+{
+  "name": "notegen",
+  "version": "1.0.0",
+  "description": "generate blog posts from md files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^2.0.1"
+  }
+}
